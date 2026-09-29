@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://monusaly2-sys.github.io/RAM.-Website/sitemap.xml
